@@ -113,3 +113,5 @@ if (require.main === module) {
 exports.deployDiamond = deployDiamond;
 
 //DIAMOND CONTRACT ADDRESS 0xe9530724cB0bcF8aAbBa6239D46BbedC51C17a54
+// clone project, fix .env file, add address to deploy.js, install node modules - `npm install`
+// run `make deployLive` to deploy contract
